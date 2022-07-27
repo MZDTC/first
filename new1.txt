@@ -1,4 +1,0 @@
-#!/bin/bash
-cd /home
-cd /sln/123/456
-cd /789
